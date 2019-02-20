@@ -1,5 +1,6 @@
 # labpy03
-latihan :
+
+**latihan 1 :
 
 Soal latihan 1 :
 
@@ -36,7 +37,7 @@ hasil output latihan 1 dibawah ini :
 
 ![hasil1](https://user-images.githubusercontent.com/45659342/53096072-d775fb00-3550-11e9-8c71-102d5bf5dd4a.JPG)
 
-Soal Latihan 2 :
+**Soal Latihan 2 :
 
 Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukan angka 0 untuk berhenti.
 
@@ -76,7 +77,7 @@ hasil output latihan 2 dibawah ini :
 
 ![hasil2](https://user-images.githubusercontent.com/45659342/53096185-22900e00-3551-11e9-8a33-70173d92e254.JPG)
 
-SOAL PROGRAM 1 :
+**SOAL PROGRAM 1 :
 
 Membuat program sederhana dengan perulangan :
 
